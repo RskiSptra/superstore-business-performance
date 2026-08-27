@@ -50,11 +50,11 @@ Dashboard dirancang dalam dua halaman berurutan untuk memfasilitasi *data storyt
 ### Page 1: Business Performance Overview
 *Menyajikan ringkasan kesehatan bisnis, metrik utama, tren bulanan, segmentasi pelanggan, dan kinerja penjualan vs profit per sub-kategori.*
 
-![Superstore Business Performance Overview](Data /page1-overview.png)
+![Superstore Business Performance Overview](<Data Studio/Overview.png>)
 
 ---
 
 ### Page 2: Profit Diagnosis (Where and Why We're Losing Money)
 *Membedah akar masalah kerugian dengan menyoroti performa kota terbawah dan korelasi langsung antara tingkat diskon dengan margin profit.*
 
-![Profit Diagnosis](Picture/page2-diagnosis.png)
+![Profit Diagnosis](<Data Studio/Diagnosis.png>)
