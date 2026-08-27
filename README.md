@@ -1,6 +1,6 @@
 # 📊 Superstore Business Performance & Profit Diagnosis
 
-Proyek ini merupakan analisis bisnis komprehensif (*End-to-End*) yang bertujuan untuk mengevaluasi kinerja penjualan (*sales*) serta mendiagnosis akar penyebab kebocoran profit (*profit leakage*) pada jaringan Superstore periode 2014–2017.
+Proyek ini merupakan analisis bisnis komprehensif (*End-to-End*) yang bertujuan untuk mengevaluasi kinerja penjualan (*sales*) serta mendiagnosis akar penyebab kebocoran profit (*profit leakage*) pada jaringan Superstore periode 2021–2024.
 
 Fokus utama analisis ini adalah membongkar anomali di mana volume penjualan yang tinggi tidak selalu menghasilkan margin keuntungan yang sehat, serta merumuskan rekomendasi kebijakan diskon berbasis data.
 
