@@ -58,3 +58,5 @@ Dashboard dirancang dalam dua halaman berurutan untuk memfasilitasi *data storyt
 *Membedah akar masalah kerugian dengan menyoroti performa kota terbawah dan korelasi langsung antara tingkat diskon dengan margin profit.*
 
 ![Profit Diagnosis](<Data Studio/Diagnosis.png>)
+
+Data Studio: <https://datastudio.google.com/reporting/7f25535c-ddd3-4aad-8a01-8636b2d94145>
