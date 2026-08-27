@@ -7,8 +7,8 @@ Fokus utama analisis ini adalah membongkar anomali di mana volume penjualan yang
 ---
 
 ## 🛠️ Tech Stack & Tools
-* **Data Cleaning & Preparation:** Google Sheets (`QUERY`, `XLOOKUP`, `Pivot Table`)
-* **Data Visualization & Storytelling:** Google Looker Studio (2-Page Interactive Dashboard)
+* **Data Cleaning & Preparation:** Google Sheets (DATE, RANDBETWEEN, FORMAT) 
+* **Data Visualization & Storytelling:** Google Data Studio (2-Page Interactive Dashboard)
 
 ---
 
@@ -50,7 +50,7 @@ Dashboard dirancang dalam dua halaman berurutan untuk memfasilitasi *data storyt
 ### Page 1: Business Performance Overview
 *Menyajikan ringkasan kesehatan bisnis, metrik utama, tren bulanan, segmentasi pelanggan, dan kinerja penjualan vs profit per sub-kategori.*
 
-![Superstore Business Performance Overview](Picture/page1-overview.png)
+![Superstore Business Performance Overview](Data /page1-overview.png)
 
 ---
 
